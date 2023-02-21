@@ -1,7 +1,7 @@
 # Hi, I'm Tazria! 👋
 
-# DeepNeuronAi
-Deep Neuron practice sheet
+# Different-Custom-CNN-Image-Classificataion-Cifer10
+Neural Network practice sheet
 
 ## 🚀 About Me
 I'm a backend developer & Data Science enthusiast. 
@@ -13,7 +13,7 @@ Python3-Flask,
 SciPy, TensorFlow, Keras
 
 # Topic-
-Basic concept for a neural netwrok like- strides, filters, convplution and fully connected neural network. Also end to end basic code understanding
+Basic concept for a neural netwrok like- strides, filters, convplution and fully connected neural network. Also end to end basic code understanding.
 
 
 ## 🔗 Links
