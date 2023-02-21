@@ -1,3 +1,5 @@
+# Hi, I'm Tazria! 👋
+
 # DeepNeuronAi
 Deep Neuron practice sheet
 
@@ -9,10 +11,6 @@ I'm a backend developer & Data Science enthusiast.
 Java-Spring Boot
 Python3-Flask,
 SciPy, TensorFlow, Keras
-
-
-# Hi, I'm Tazria! 👋
-
 
 
 ## 🔗 Links
